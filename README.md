@@ -1,9 +1,9 @@
-# Bouncing_Ball
+# 互動技術概論-Bouncing Ball
 - 組員：[sweetiecat](https://github.com/sweetiecat)、[yiyun12o9](https://github.com/yiyun12o9)
 
 - 老師：[jsyeh](https://github.com/jsyeh)
 
-- 作品：Bouncing Ball
+- 作品名稱：Bouncing Ball
 
 - 操作：一進遊戲就有好聽的背景音樂，按下PLAY後開始遊玩，第一步先選球的顏色，選完後按下紅色箭頭開始遊戲，利用滑鼠左右滑動來控制球的移動，讓球在板子上彈跳，若沒彈到板子即遊戲結束，可選擇再玩一次。
 
